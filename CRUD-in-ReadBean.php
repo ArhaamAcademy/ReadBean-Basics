@@ -1,4 +1,6 @@
-CRUD in ReadBean
+<?php
+
+//CRUD in ReadBean
 
 
 //CREATE
